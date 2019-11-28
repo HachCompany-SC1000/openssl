@@ -1,2 +1,0 @@
-# openssl
-openssl security lib
